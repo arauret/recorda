@@ -1,3 +1,5 @@
+'use client';
+
 import Interview from '@/components/Interview';
 
 const cards = [
